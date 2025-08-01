@@ -4,4 +4,5 @@ Unzip it to the ComfyUI\custom_nodes folder and restart comfyui to encrypt the w
 解压到ComfyUI\custom_nodes文件夹即可，重启comfyui后即可加密工作流
 The encryption component and the encryption end bridge one end to the other!
 加密组件和加密结束桥接一头一尾！
-合作jzxlzhao998
+合作V:jzxlzhao998
+discord：ijokus258
